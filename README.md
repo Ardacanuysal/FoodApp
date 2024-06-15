@@ -2,14 +2,7 @@
 <div align="center">
 
   <img src="logo.png" alt="logo" width="200" height="auto" />
-  <h1>Nibble Yemek Sipariş Uygulaması</h1>
-  
-  <p>
-    Techcareer.net Techmasters IOS Bootcamp bitirme ödevi için hazırladığım bir yemek sipariş uygulaması.
-  </p>
-
-    API KEY SON GEÇERLİLİK TARİHİ: 24 KASIM 2022
-  
+  <h1>Yemek Sipariş Uygulaması</h1>
 </div>
 
 <br />
@@ -92,10 +85,7 @@ Projede kullanılan paketler aşağıdadır.
 
 <!-- Contact -->
 ## :raising_hand_man: İletişim
-
-Kerem Safa Dirican
-
-Linkedin: https://www.linkedin.com/in/kerem-safa-dirican/
+Linkedin: https://www.linkedin.com/in/arda-can-uysal-5343321b2/
 
 
 <!-- Demo -->
@@ -103,13 +93,8 @@ Linkedin: https://www.linkedin.com/in/kerem-safa-dirican/
 
 <div align="center"> 
 
-<img width="2405" alt="master" src="https://user-images.githubusercontent.com/50713500/190876687-b3cb3725-8ee7-47fc-9ae0-f6006d3a07fb.png">
+<img width="2405" alt="master" src="https://github.com/Ardacanuysal/foodApp/blob/main/foodOrderApp/Assets.xcassets/GithubScreenShoots/image.png">
+<img width="2405" alt="master" src="https://github.com/Ardacanuysal/foodApp/blob/main/foodOrderApp/Assets.xcassets/GithubScreenShoots/image2.png">
+
 </div>
 
-<!-- Demo -->
-## :gem: Video
-
-<div align="center"> 
-
-https://user-images.githubusercontent.com/50713500/190860802-ee18a015-cd03-4450-aa36-feaaffb3c2cb.mov
-</div>
